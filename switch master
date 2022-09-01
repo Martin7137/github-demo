@@ -1,0 +1,23 @@
+[33mcommit b20a2be7839d1f669eb6470d1a90264440408bc2[m[33m ([m[1;36mHEAD -> [m[1;32mdarkmode[m[33m)[m
+Author: Martin7137 <toman.martin.17@gmail.com>
+Date:   Wed Aug 31 13:28:38 2022 +0200
+
+    Vytvořena black verze stránek
+
+[33mcommit 2291818617624ae55cf997ef99aa922b2e230746[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Martin7137 <toman.martin.17@gmail.com>
+Date:   Wed Aug 31 13:26:25 2022 +0200
+
+    Vložen obsah do body H1, H2, P
+
+[33mcommit 92262ede6372e94579edb1f2994657a9041b7dc9[m
+Author: Martin7137 <toman.martin.17@gmail.com>
+Date:   Wed Aug 31 13:24:03 2022 +0200
+
+    HTML struktura a napojení stylů v index.html
+
+[33mcommit a86c1ea4eccbe3b43620470091b4b41b4799c37e[m
+Author: Martin7137 <toman.martin.17@gmail.com>
+Date:   Wed Aug 31 13:23:13 2022 +0200
+
+    Vytvořen index.html a style.css
